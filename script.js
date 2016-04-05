@@ -58,14 +58,18 @@ var createnode = function(data) {
 };
 
 var convert = function() {
-
 	$("#working").show();
+	$("#messages").html("");
+	$("#report").hide();
+	$("#wrapper").hide();
 	setTimeout(convert2);
-
 };
 
 var convert2 = function() {
 
+	var errors = [];
+	var rootevents = 0;
+	var totalevents = 0;
 	var tree = [];
 
 	// parse inout
@@ -95,6 +99,9 @@ var convert2 = function() {
 
 	for (i in parentids) {
 		if (!ids[i]) {
+
+			errors.push("Parent event " + i + " does not exist, will be generated");
+
 			data.push({
 				eventID: i,
 				generated: true
@@ -106,6 +113,8 @@ var convert2 = function() {
 
 	data.reverse();
 
+	totalevents = data.length;
+
 	while (data.length > 0) {
 
 		console.log("next run: " + data.length);
@@ -116,6 +125,7 @@ var convert2 = function() {
 
 				// no parentEventID present
 
+				rootevents++;
 				tree.push(createnode(data[i]));
 				data.splice(i, 1);
 
@@ -142,11 +152,21 @@ var convert2 = function() {
 
 	// create tree
 
+	$("#wrapper").show();
+
 	$("#tree").treeview({
 		data: tree,
 		levels: 100,
 		showBorder: false
 	});
+
+	var messages = "";
+	for (e in errors) {
+		messages = messages + errors[e] + "\n";
+	}
+
+	$("#messages").html(messages);
+	$("#report").show();
 
 	$("#working").hide();
 
