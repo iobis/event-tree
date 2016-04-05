@@ -60,6 +60,11 @@ var createnode = function(data) {
 var convert = function() {
 
 	$("#working").show();
+	setTimeout(convert2, 100);
+
+};
+
+var convert2 = function() {
 
 	var tree = [];
 
