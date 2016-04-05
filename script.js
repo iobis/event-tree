@@ -45,10 +45,10 @@ var createnode = function(data) {
 		text = text + " <span class=\"label label-field\">decimalLatitude: " + data.decimalLatitude + "</span>";
 	}
 	if (data.minimumDepthInMeters && data.minimumDepthInMeters != "") {
-		text = text + " <span class=\"label label-field\">minimumDepthInMeters" + data.minimumDepthInMeters + "</span>";
+		text = text + " <span class=\"label label-field\">minimumDepthInMeters: " + data.minimumDepthInMeters + "</span>";
 	}
 	if (data.maximumDepthInMeters && data.maximumDepthInMeters != "") {
-		text = text + " <span class=\"label label-field\">maximumDepthInMeters" + data.maximumDepthInMeters + "</span>";
+		text = text + " <span class=\"label label-field\">maximumDepthInMeters: " + data.maximumDepthInMeters + "</span>";
 	}
 	var node = {
 		text: text,
