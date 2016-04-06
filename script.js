@@ -1,10 +1,10 @@
 var parse = function(csv) {
 	var lines = csv.trim().split("\n");
 	var result = [];
-	var headers = lines[0].split("\t");
+	var headers = lines[0].split(sep);
 	for (var i = 1; i < lines.length; i++) {
 		var obj = {};
-		var line = lines[i].split("\t");
+		var line = lines[i].split(sep);
 		for (var j = 0; j < line.length; j++) {
 			obj[headers[j]] = line[j].trim();
 		}
@@ -15,7 +15,7 @@ var parse = function(csv) {
 
 var append = function(tree, node, type) {
 	if (type == "occurrence") {
-		if (tree.id == node.id) {
+		if (tree.id == node[fk]) {
 			if (!tree.nodes) {
 				tree.nodes = [];
 			}
@@ -46,7 +46,7 @@ var append = function(tree, node, type) {
 			}
 			return false;
 		} else {
-			if (tree.id == node.id) {
+			if (tree.id == node[fk]) {
 				if (!tree.nodes) {
 					tree.nodes = [];
 				}
@@ -150,8 +150,14 @@ var createnode = function(data, type) {
 
 var tree = [];
 var errors = [];
+var fk = "id";
+var sep = "\t";
 
 var process = function() {
+	fk = $("#fk").val();
+	if ($("#sep").val() == "tab") {
+		sep = "\t";
+	}
 	$("#working").show();
 	$("#messages").html("");
 	$("#report").hide();
@@ -286,7 +292,11 @@ var process_measurement = function() {
 			}
 		}
 		if (!found) {
-			errors.push("No event " + data[i].id + " found for measurement " + data[i].measurementID);
+			var e = "No event " + data[i].id + " found for measurement";
+			if (data[i].measurementID) {
+				e = e + " " + data[i].measurementID;
+			}
+			errors.push(e);
 		}
 	}
 
