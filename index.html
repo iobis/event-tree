@@ -8,7 +8,8 @@ body {
 	padding-top: 70px;
 }
 .label-field {
-	background-color: #888888;
+	background-color: #e6e6e6;
+	color: #999999;
 	font-weight: normal;
 }
 #working, #report, #wrapper {
@@ -76,6 +77,11 @@ body {
 	<div class="row" id="wrapper">
 		<div class="col-lg-12">
 			<h3>Event tree</h3>
+			<div class="form-group">
+				<button class="btn btn-default" onclick="collapse()">Collapse</button>
+				<button class="btn btn-default" onclick="expand()">Expand</button>
+			</div>
+
 			<div id="tree"></div>
 		</div>
 	</div>

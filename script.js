@@ -80,6 +80,9 @@ var append = function(tree, node, type) {
 };
 
 var createnode = function(data, type) {
+	var node = {
+		selectable: false
+	};
 	if (type == "occurrence") {
 		var text = data.occurrenceID;
 		if (data.scientificName && data.scientificName != "") {
@@ -100,11 +103,8 @@ var createnode = function(data, type) {
 		if (data.maximumDepthInMeters && data.maximumDepthInMeters != "") {
 			text = text + " <span class=\"label label-field\">maximumDepthInMeters: " + data.maximumDepthInMeters + "</span>";
 		}
-		var node = {
-			text: text,
-			id: data.occurrenceID
-		};
-		return node;
+		node.text = text;
+		node.id = data.occurrenceID;
 	} else if (type == "measurement") {
 		var text = "";
 		if (data.measurementID) {
@@ -116,10 +116,7 @@ var createnode = function(data, type) {
 		if (data.measurementValue && data.measurementValue != "") {
 			text = text + " <span class=\"label label-field\">measurementValue: " + data.measurementValue + "</span>";
 		}
-		var node = {
-			text: text
-		};
-		return node;
+		node.text = text;
 	} else if (type == "event") {
 		var text = data.eventID;
 		if (data.generated) {
@@ -140,12 +137,10 @@ var createnode = function(data, type) {
 		if (data.maximumDepthInMeters && data.maximumDepthInMeters != "") {
 			text = text + " <span class=\"label label-field\">maximumDepthInMeters: " + data.maximumDepthInMeters + "</span>";
 		}
-		var node = {
-			text: text,
-			id: data.eventID
-		};
-		return node;
+		node.text = text;
+		node.id = data.eventID;
 	}
+	return node;
 };
 
 var tree = [];
@@ -348,6 +343,14 @@ $(document).ready(function() {
 		}
 	});
 }); 
+
+var expand = function() {
+	$("#tree").treeview("expandAll", { levels: 100, silent: true });
+};
+
+var collapse = function() {
+	$("#tree").treeview("collapseAll", { silent: true });
+};
 
 var empty = function() {
 	$("#event").val("");
