@@ -1,0 +1,501 @@
+id	occurrenceID	measurementType	measurementTypeID	measurementValue	measurementValueID	measurementUnit	measurementUnitID
+Cruise65:Station556:EventSea-Bird SBE09_9763		Dissolved oxygen	http://vocab.nerc.ac.uk/collection/P01/current/DOXYZZXX	244		µmol/kg	http://vocab.nerc.ac.uk/collection/P06/current/KGUM
+Cruise65:Station555:EventSea-Bird SBE09_9762		Dissolved oxygen	http://vocab.nerc.ac.uk/collection/P01/current/DOXYZZXX	244		µmol/kg	http://vocab.nerc.ac.uk/collection/P06/current/KGUM
+Cruise65:Station557:EventSea-Bird SBE09_9764		Dissolved oxygen	http://vocab.nerc.ac.uk/collection/P01/current/DOXYZZXX	244		µmol/kg	http://vocab.nerc.ac.uk/collection/P06/current/KGUM
+Cruise65:Station558:EventSea-Bird SBE09_9765		Dissolved oxygen	http://vocab.nerc.ac.uk/collection/P01/current/DOXYZZXX	216		µmol/kg	http://vocab.nerc.ac.uk/collection/P06/current/KGUM
+Cruise65:Station560:EventSea-Bird SBE09_9767		Dissolved oxygen	http://vocab.nerc.ac.uk/collection/P01/current/DOXYZZXX	218		µmol/kg	http://vocab.nerc.ac.uk/collection/P06/current/KGUM
+Cruise66:Station589:EventSea-Bird SBE21_9890		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	32.5		PSU	
+Cruise68:Station593:EventSea-Bird SBE21_9894		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	34.1		PSU	
+Cruise66:Station571:EventSea-Bird SBE21_9815		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	31.56		PSU	
+Cruise68:Station594:EventSea-Bird SBE21_9895		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	34.5		PSU	
+Cruise66:Station570:EventSea-Bird SBE21_9814		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	31.3		PSU	
+Cruise68:Station595:EventSea-Bird SBE21_9911		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	30.4		PSU	
+Cruise66:Station564:EventSea-Bird SBE21_9784		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	32.93		PSU	
+Cruise68:Station596:EventSea-Bird SBE21_9925		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	30.3		PSU	
+Cruise66:Station563:EventSea-Bird SBE21_9783		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	34		PSU	
+Cruise68:Station597:EventSea-Bird SBE21_9926		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	34.9		PSU	
+Cruise68:Station598:EventSea-Bird SBE21_9927		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	34.9		PSU	
+Cruise66:Station573:EventSea-Bird SBE21_9817		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	32.08		PSU	
+Cruise68:Station599:EventSea-Bird SBE21_9928		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	34.7		PSU	
+Cruise66:Station587:EventSea-Bird SBE21_9879		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	34.11		PSU	
+Cruise65:Station560:EventSea-Bird SBE09_9767		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	35.55		PSU	
+Cruise65:Station558:EventSea-Bird SBE09_9765		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	35.55		PSU	
+Cruise68:Station600:EventSea-Bird SBE21_9929		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	34.5		PSU	
+Cruise65:Station557:EventSea-Bird SBE09_9764		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	35.55		PSU	
+Cruise68:Station601:EventSea-Bird SBE21_9930		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	34.6		PSU	
+Cruise65:Station556:EventSea-Bird SBE09_9763		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	35.55		PSU	
+Cruise66:Station562:EventSea-Bird SBE21_9782		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	34.01		PSU	
+Cruise66:Station581:EventSea-Bird SBE21_9860		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	31.55		PSU	
+Cruise66:Station590:EventSea-Bird SBE21_9891		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	32.5		PSU	
+Cruise66:Station588:EventSea-Bird SBE21_9889		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	33.37		PSU	
+Cruise66:Station591:EventSea-Bird SBE21_9892		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	33.54		PSU	
+Cruise66:Station607:EventSea-Bird SBE21_9959		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	33.37		PSU	
+Cruise66:Station586:EventSea-Bird SBE21_9865		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	32.7		PSU	
+Cruise66:Station608:EventSea-Bird SBE21_9971		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	32.08		PSU	
+Cruise66:Station585:EventSea-Bird SBE21_9864		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	34.28		PSU	
+Cruise66:Station621:EventSea-Bird SBE21_10015		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	31.2		PSU	
+Cruise66:Station584:EventSea-Bird SBE21_9863		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	34.16		PSU	
+Cruise68:Station565:EventSea-Bird SBE21_9785		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	34		PSU	
+Cruise66:Station572:EventSea-Bird SBE21_9816		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	31.6		PSU	
+Cruise68:Station566:EventSea-Bird SBE21_9797		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	31.7		PSU	
+Cruise68:Station592:EventSea-Bird SBE21_9893		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	33.5		PSU	
+Cruise68:Station567:EventSea-Bird SBE21_9811		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	25.2		PSU	
+Cruise66:Station580:EventSea-Bird SBE21_9851		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	31.55		PSU	
+Cruise68:Station568:EventSea-Bird SBE21_9812		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	18.57		PSU	
+Cruise66:Station577:EventSea-Bird SBE21_9821		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	33.54		PSU	
+Cruise68:Station569:EventSea-Bird SBE21_9813		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	14.9		PSU	
+Cruise66:Station576:EventSea-Bird SBE21_9820		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	32.7		PSU	
+Cruise68:Station578:EventSea-Bird SBE21_9822		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	34		PSU	
+Cruise66:Station575:EventSea-Bird SBE21_9819		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	34.16		PSU	
+Cruise68:Station579:EventSea-Bird SBE21_9823		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	33.6		PSU	
+Cruise66:Station574:EventSea-Bird SBE21_9818		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	34.1		PSU	
+Cruise68:Station582:EventSea-Bird SBE21_9861		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	32.8		PSU	
+Cruise66:Station583:EventSea-Bird SBE21_9862		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	32.08		PSU	
+Cruise62:Station530:EventSea-Bird SBE21_9687		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	15.3		PSU	
+Cruise62:Station552:EventSea-Bird SBE21_9746		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	34.1862		PSU	
+Cruise68:Station613:EventSea-Bird SBE21_9976		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	31.7		PSU	
+Cruise62:Station551:EventSea-Bird SBE21_9743		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	34.2919		PSU	
+Cruise68:Station602:EventSea-Bird SBE21_9931		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	34.5		PSU	
+Cruise68:Station614:EventSea-Bird SBE21_9977		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	30.8		PSU	
+Cruise66:Station561:EventSea-Bird SBE21_9775		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	33.89		PSU	
+Cruise62:Station535:EventSea-Bird SBE21_9710		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	34.1306		PSU	
+Cruise62:Station534:EventSea-Bird SBE21_9707		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	34.2		PSU	
+Cruise68:Station615:EventSea-Bird SBE21_9978		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	34.9		PSU	
+Cruise62:Station533:EventSea-Bird SBE21_9704		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	33.5017		PSU	
+Cruise62:Station532:EventSea-Bird SBE21_9701		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	34.0797		PSU	
+Cruise68:Station616:EventSea-Bird SBE21_9979		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	34.9		PSU	
+Cruise62:Station553:EventSea-Bird SBE38_9749		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	34.1214		PSU	
+Cruise68:Station617:EventSea-Bird SBE21_9999		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	34.5		PSU	
+Cruise62:Station536:EventSea-Bird SBE21_9713		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	34.3002		PSU	
+Cruise62:Station529:EventSea-Bird SBE21_9686		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	34.5		PSU	
+Cruise68:Station618:EventSea-Bird SBE21_10005		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	34.2		PSU	
+Cruise62:Station528:EventSea-Bird SBE21_9685		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	34.6		PSU	
+Cruise62:Station527:EventSea-Bird SBE21_9684		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	34.7		PSU	
+Cruise62:Station526:EventSea-Bird SBE21_9683		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	34.7		PSU	
+Cruise68:Station619:EventSea-Bird SBE21_10006		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	33.7		PSU	
+Cruise62:Station525:EventSea-Bird SBE21_9682		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	34.8		PSU	
+Cruise62:Station524:EventSea-Bird SBE21_9681		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	34.8		PSU	
+Cruise68:Station620:EventSea-Bird SBE21_10007		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	32.2		PSU	
+Cruise62:Station523:EventSea-Bird SBE21_9680		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	34.8		PSU	
+Cruise68:Station622:EventSea-Bird SBE21_10019		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	34.9		PSU	
+Cruise62:Station522:EventSea-Bird SBE21_9679		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	34.8		PSU	
+Cruise62:Station531:EventSea-Bird SBE21_9698		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	34.5249		PSU	
+Cruise64:Station550:EventSea-Bird SBE21_9741		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	34.9414		PSU	
+Cruise63:Station545:EventSea-Bird SBE21_9733		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	33.3565		PSU	
+Cruise63:Station543:EventSea-Bird SBE21_9731		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	34.4039		PSU	
+Cruise68:Station609:EventSea-Bird SBE21_9972		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	34.1		PSU	
+Cruise63:Station546:EventSea-Bird SBE21_9735		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	33.6034		PSU	
+Cruise63:Station548:EventSea-Bird SBE21_9737		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	34.4142		PSU	
+Cruise68:Station605:EventSea-Bird SBE21_9934		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	34.9		PSU	
+Cruise64:Station549:EventSea-Bird SBE21_9739		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	33.844		PSU	
+Cruise63:Station541:EventSea-Bird SBE21_9727		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	34.6541		PSU	
+Cruise68:Station606:EventSea-Bird SBE21_9935		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	34.8		PSU	
+Cruise68:Station610:EventSea-Bird SBE21_9973		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	32.5		PSU	
+Cruise63:Station542:EventSea-Bird SBE21_9729		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	34.3015		PSU	
+Cruise65:Station555:EventSea-Bird SBE09_9762		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	35.55		PSU	
+Cruise68:Station612:EventSea-Bird SBE21_9975		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	30.8		PSU	
+Cruise68:Station603:EventSea-Bird SBE21_9932		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	34.8		PSU	
+Cruise62:Station554:EventSea-Bird SBE21_9752		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	34.1591		PSU	
+Cruise63:Station540:EventSea-Bird SBE21_9725		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	34.462		PSU	
+Cruise63:Station537:EventSea-Bird SBE21_9717		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	34.1339		PSU	
+Cruise63:Station538:EventSea-Bird SBE21_9720		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	34.4851		PSU	
+Cruise68:Station611:EventSea-Bird SBE21_9974		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	32.3		PSU	
+Cruise68:Station604:EventSea-Bird SBE21_9933		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	35		PSU	
+Cruise63:Station539:EventSea-Bird SBE21_9723		Salinity	http://vocab.nerc.ac.uk/collection/P01/current/SSALST01	34.3589		PSU	
+Cruise68:Station622:EventSecchi disc_10021		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	500		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise66:Station587:EventSecchi disc_9881		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	120		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise66:Station586:EventSecchi disc_9877		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	300		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise66:Station588:EventSecchi disc_9903		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	120		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise66:Station584:EventSecchi disc_9875		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	400		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise66:Station585:EventSecchi disc_9876		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	500		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise66:Station583:EventSecchi disc_9874		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	75		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise66:Station574:EventSecchi disc_9844		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	550		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise66:Station561:EventSecchi disc_9777		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	100		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise66:Station571:EventSecchi disc_9841		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	80		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise66:Station580:EventSecchi disc_9853		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	75		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise66:Station562:EventSecchi disc_9790		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	250		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise66:Station577:EventSecchi disc_9847		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	250		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise66:Station576:EventSecchi disc_9846		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	250		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise66:Station563:EventSecchi disc_9791		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	237		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise66:Station575:EventSecchi disc_9845		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	550		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise66:Station564:EventSecchi disc_9792		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	500		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise66:Station570:EventSecchi disc_9840		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	60		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise66:Station573:EventSecchi disc_9843		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	75		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise66:Station572:EventSecchi disc_9842		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	80		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise66:Station581:EventSecchi disc_9872		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	75		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise68:Station601:EventSecchi disc_9952		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	500		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise68:Station567:EventSecchi disc_9837		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	75		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise68:Station614:EventSecchi disc_9995		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	350		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise68:Station600:EventSecchi disc_9951		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	450		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise68:Station596:EventSecchi disc_9947		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	350		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise68:Station569:EventSecchi disc_9839		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	75		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise68:Station599:EventSecchi disc_9950		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	450		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise68:Station578:EventSecchi disc_9848		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	500		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise68:Station615:EventSecchi disc_9996		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	500		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise68:Station610:EventSecchi disc_9991		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	350		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise66:Station589:EventSecchi disc_9904		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	70		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise68:Station582:EventSecchi disc_9873		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	100		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise68:Station616:EventSecchi disc_9997		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	500		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise68:Station598:EventSecchi disc_9949		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	500		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise68:Station592:EventSecchi disc_9907		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	300		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise68:Station613:EventSecchi disc_9994		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	450		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise68:Station597:EventSecchi disc_9948		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	500		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise68:Station593:EventSecchi disc_9908		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	350		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise68:Station611:EventSecchi disc_9992		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	350		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise68:Station594:EventSecchi disc_9909		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	350		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise68:Station612:EventSecchi disc_9993		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	400		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise68:Station595:EventSecchi disc_9913		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	300		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise68:Station579:EventSecchi disc_9849		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	300		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise68:Station618:EventSecchi disc_10011		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	350		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise66:Station591:EventSecchi disc_9906		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	300		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise68:Station603:EventSecchi disc_9954		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	500		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise66:Station607:EventSecchi disc_9961		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	120		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise68:Station568:EventSecchi disc_9838		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	75		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise68:Station620:EventSecchi disc_10013		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	500		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise66:Station608:EventSecchi disc_9989		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	75		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise68:Station619:EventSecchi disc_10012		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	350		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise66:Station621:EventSecchi disc_10017		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	75		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise68:Station606:EventSecchi disc_9957		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	500		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise68:Station602:EventSecchi disc_9953		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	500		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise68:Station605:EventSecchi disc_9956		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	500		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise68:Station604:EventSecchi disc_9955		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	500		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise68:Station565:EventSecchi disc_9793		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	500		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise68:Station609:EventSecchi disc_9990		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	350		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise68:Station566:EventSecchi disc_9795		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	150		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise68:Station617:EventSecchi disc_10001		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	400		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise66:Station590:EventSecchi disc_9905		Secchi depth	http://vocab.nerc.ac.uk/collection/P01/current/SECCSDNX	70		cm	http://vocab.nerc.ac.uk/collection/P06/current/ULCM
+Cruise63:Station537:EventSea-Bird SBE21_9717		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	4.9048		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise68:Station612:EventSea-Bird SBE21_9975		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	16.96		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise68:Station606:EventSea-Bird SBE21_9935		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	16.99		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise63:Station545:EventSea-Bird SBE21_9733		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	4.8967		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise63:Station538:EventSea-Bird SBE21_9720		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	4.8097		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise68:Station611:EventSea-Bird SBE21_9974		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	17.03		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise63:Station541:EventSea-Bird SBE21_9727		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	5.416		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise63:Station539:EventSea-Bird SBE21_9723		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	5.2534		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise63:Station542:EventSea-Bird SBE21_9729		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	4.8119		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise68:Station610:EventSea-Bird SBE21_9973		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	17		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise63:Station540:EventSea-Bird SBE21_9725		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	5.1697		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise68:Station609:EventSea-Bird SBE21_9972		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	17.15		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise63:Station543:EventSea-Bird SBE21_9731		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	4.6385		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise62:Station531:EventSea-Bird SBE21_9698		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	17.68		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise68:Station622:EventSea-Bird SBE21_10019		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	16.75		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise62:Station523:EventSea-Bird SBE21_9680		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	16.6		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise62:Station524:EventSea-Bird SBE21_9681		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	16.6		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise68:Station620:EventSea-Bird SBE21_10007		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	16.83		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise62:Station525:EventSea-Bird SBE21_9682		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	16.6		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise68:Station619:EventSea-Bird SBE21_10006		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	16.89		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise62:Station526:EventSea-Bird SBE21_9683		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	16.3		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise62:Station527:EventSea-Bird SBE21_9684		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	16		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise62:Station528:EventSea-Bird SBE21_9685		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	15.5		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise68:Station618:EventSea-Bird SBE21_10005		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	16.89		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise62:Station529:EventSea-Bird SBE21_9686		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	14.7		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise68:Station614:EventSea-Bird SBE21_9977		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	16.91		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise62:Station530:EventSea-Bird SBE21_9687		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	34.7		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise62:Station554:EventSea-Bird SBE21_9752		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	17.32		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise62:Station532:EventSea-Bird SBE21_9701		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	17.36		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise68:Station616:EventSea-Bird SBE21_9979		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	16.83		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise62:Station533:EventSea-Bird SBE21_9704		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	17.44		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise62:Station534:EventSea-Bird SBE21_9707		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	17.3		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise68:Station615:EventSea-Bird SBE21_9978		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	16.83		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise62:Station535:EventSea-Bird SBE21_9710		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	17.45		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise62:Station536:EventSea-Bird SBE21_9713		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	16.39		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise63:Station546:EventSea-Bird SBE21_9735		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	5.4599		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise62:Station551:EventSea-Bird SBE21_9743		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	17.76		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise68:Station613:EventSea-Bird SBE21_9976		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	16.93		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise62:Station552:EventSea-Bird SBE21_9746		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	17.7		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise62:Station553:EventSea-Bird SBE38_9749		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	17.58		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise68:Station617:EventSea-Bird SBE21_9999		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	17.01		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise66:Station583:EventSea-Bird SBE21_9862		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	17		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise68:Station582:EventSea-Bird SBE21_9861		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	16.99		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise66:Station574:EventSea-Bird SBE21_9818		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	17		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise68:Station579:EventSea-Bird SBE21_9823		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	17		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise66:Station575:EventSea-Bird SBE21_9819		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	17		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise68:Station578:EventSea-Bird SBE21_9822		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	17		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise66:Station576:EventSea-Bird SBE21_9820		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	17		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise68:Station569:EventSea-Bird SBE21_9813		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	18.39		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise66:Station577:EventSea-Bird SBE21_9821		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	17		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise68:Station568:EventSea-Bird SBE21_9812		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	17.75		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise66:Station580:EventSea-Bird SBE21_9851		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	17		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise68:Station567:EventSea-Bird SBE21_9811		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	17.29		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise65:Station557:EventSea-Bird SBE09_9764		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	11.11		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise68:Station566:EventSea-Bird SBE21_9797		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	16.95		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise66:Station572:EventSea-Bird SBE21_9816		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	17		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise68:Station565:EventSea-Bird SBE21_9785		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	18.33		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise66:Station584:EventSea-Bird SBE21_9863		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	17		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise66:Station621:EventSea-Bird SBE21_10015		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	17		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise66:Station585:EventSea-Bird SBE21_9864		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	17		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise66:Station608:EventSea-Bird SBE21_9971		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	17		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise66:Station586:EventSea-Bird SBE21_9865		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	17		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise62:Station522:EventSea-Bird SBE21_9679		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	16.9		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise66:Station607:EventSea-Bird SBE21_9959		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	17		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise66:Station591:EventSea-Bird SBE21_9892		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	17		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise66:Station588:EventSea-Bird SBE21_9889		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	17		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise66:Station590:EventSea-Bird SBE21_9891		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	17		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise66:Station589:EventSea-Bird SBE21_9890		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	17		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise66:Station581:EventSea-Bird SBE21_9860		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	17		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise66:Station561:EventSea-Bird SBE21_9775		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	17		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise68:Station605:EventSea-Bird SBE21_9934		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	16.68		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise64:Station549:EventSea-Bird SBE21_9739		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	6.43		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise64:Station550:EventSea-Bird SBE21_9741		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	6.4887		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise68:Station604:EventSea-Bird SBE21_9933		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	16.59		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise65:Station555:EventSea-Bird SBE09_9762		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	11.65		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise68:Station603:EventSea-Bird SBE21_9932		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	16.99		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise65:Station556:EventSea-Bird SBE09_9763		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	11.18		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise68:Station602:EventSea-Bird SBE21_9931		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	17		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise66:Station587:EventSea-Bird SBE21_9879		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	17		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise68:Station601:EventSea-Bird SBE21_9930		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	17.06		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise65:Station558:EventSea-Bird SBE09_9765		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	10.13		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise68:Station600:EventSea-Bird SBE21_9929		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	16.98		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise66:Station573:EventSea-Bird SBE21_9817		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	17		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise65:Station560:EventSea-Bird SBE09_9767		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	10.15		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise68:Station592:EventSea-Bird SBE21_9893		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	17.11		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise68:Station598:EventSea-Bird SBE21_9927		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	16.85		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise66:Station562:EventSea-Bird SBE21_9782		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	17		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise68:Station597:EventSea-Bird SBE21_9926		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	16.65		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise66:Station563:EventSea-Bird SBE21_9783		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	17		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise68:Station596:EventSea-Bird SBE21_9925		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	16.85		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise66:Station564:EventSea-Bird SBE21_9784		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	17		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise68:Station595:EventSea-Bird SBE21_9911		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	16.98		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise66:Station570:EventSea-Bird SBE21_9814		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	17		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise68:Station594:EventSea-Bird SBE21_9895		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	16.99		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise66:Station571:EventSea-Bird SBE21_9815		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	17		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise68:Station593:EventSea-Bird SBE21_9894		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	17.09		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise63:Station548:EventSea-Bird SBE21_9737		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	5.393		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise68:Station599:EventSea-Bird SBE21_9928		water temperature	http://vocab.nerc.ac.uk/collection/P01/current/TEMPPR01	16.93		degrees	http://vocab.nerc.ac.uk/collection/P06/current/UPAA/
+Cruise62:Station522:EventSea-Bird SBE21_9679		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise62:Station523:EventSea-Bird SBE21_9680		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise62:Station524:EventSea-Bird SBE21_9681		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise62:Station525:EventSea-Bird SBE21_9682		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise62:Station526:EventSea-Bird SBE21_9683		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise62:Station527:EventSea-Bird SBE21_9684		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise62:Station528:EventSea-Bird SBE21_9685		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise62:Station529:EventSea-Bird SBE21_9686		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise62:Station530:EventSea-Bird SBE21_9687		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise62:Station531:EventSea-Bird SBE21_9698		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise62:Station532:EventSea-Bird SBE21_9701		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise62:Station533:EventSea-Bird SBE21_9704		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise62:Station534:EventSea-Bird SBE21_9707		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise62:Station535:EventSea-Bird SBE21_9710		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise62:Station536:EventSea-Bird SBE21_9713		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise62:Station551:EventSea-Bird SBE21_9743		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise62:Station552:EventSea-Bird SBE21_9746		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise62:Station553:EventSea-Bird SBE38_9749		Sampling device		Sea-Bird SBE38 temperature sensor	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0191/		
+Cruise62:Station554:EventSea-Bird SBE21_9752		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise63:Station537:EventSea-Bird SBE21_9717		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise63:Station538:EventSea-Bird SBE21_9720		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise63:Station539:EventSea-Bird SBE21_9723		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise63:Station540:EventSea-Bird SBE21_9725		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise63:Station541:EventSea-Bird SBE21_9727		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise63:Station542:EventSea-Bird SBE21_9729		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise63:Station543:EventSea-Bird SBE21_9731		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise63:Station545:EventSea-Bird SBE21_9733		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise63:Station546:EventSea-Bird SBE21_9735		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise63:Station548:EventSea-Bird SBE21_9737		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise64:Station549:EventSea-Bird SBE21_9739		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise64:Station550:EventSea-Bird SBE21_9741		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise65:Station555:EventSea-Bird SBE09_9762		Sampling device		Sea-Bird SBE09plus			
+Cruise65:Station556:EventSea-Bird SBE09_9763		Sampling device		Sea-Bird SBE09plus			
+Cruise65:Station557:EventSea-Bird SBE09_9764		Sampling device		Sea-Bird SBE09plus			
+Cruise65:Station558:EventSea-Bird SBE09_9765		Sampling device		Sea-Bird SBE09plus			
+Cruise65:Station560:EventSea-Bird SBE09_9767		Sampling device		Sea-Bird SBE09plus			
+Cruise66:Station561:EventSea-Bird SBE21_9775		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise66:Station561:EventSecchi disc_9777		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise66:Station562:EventSea-Bird SBE21_9782		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise66:Station562:EventSecchi disc_9790		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise66:Station563:EventSea-Bird SBE21_9783		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise66:Station563:EventSecchi disc_9791		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise66:Station564:EventSea-Bird SBE21_9784		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise66:Station564:EventSecchi disc_9792		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise66:Station570:EventSea-Bird SBE21_9814		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise66:Station570:EventSecchi disc_9840		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise66:Station571:EventSea-Bird SBE21_9815		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise66:Station571:EventSecchi disc_9841		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise66:Station572:EventSea-Bird SBE21_9816		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise66:Station572:EventSecchi disc_9842		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise66:Station573:EventSea-Bird SBE21_9817		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise66:Station573:EventSecchi disc_9843		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise66:Station574:EventSea-Bird SBE21_9818		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise66:Station574:EventSecchi disc_9844		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise66:Station575:EventSea-Bird SBE21_9819		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise66:Station575:EventSecchi disc_9845		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise66:Station576:EventSea-Bird SBE21_9820		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise66:Station576:EventSecchi disc_9846		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise66:Station577:EventSea-Bird SBE21_9821		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise66:Station577:EventSecchi disc_9847		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise66:Station580:EventSea-Bird SBE21_9851		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise66:Station580:EventSecchi disc_9853		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise66:Station581:EventSea-Bird SBE21_9860		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise66:Station581:EventSecchi disc_9872		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise66:Station583:EventSea-Bird SBE21_9862		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise66:Station583:EventSecchi disc_9874		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise66:Station584:EventSea-Bird SBE21_9863		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise66:Station584:EventSecchi disc_9875		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise66:Station585:EventSea-Bird SBE21_9864		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise66:Station585:EventSecchi disc_9876		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise66:Station586:EventSea-Bird SBE21_9865		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise66:Station586:EventSecchi disc_9877		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise66:Station587:EventSea-Bird SBE21_9879		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise66:Station587:EventSecchi disc_9881		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise66:Station588:EventSea-Bird SBE21_9889		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise66:Station588:EventSecchi disc_9903		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise66:Station589:EventSea-Bird SBE21_9890		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise66:Station589:EventSecchi disc_9904		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise66:Station590:EventSea-Bird SBE21_9891		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise66:Station590:EventSecchi disc_9905		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise66:Station591:EventSea-Bird SBE21_9892		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise66:Station591:EventSecchi disc_9906		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise66:Station607:EventSea-Bird SBE21_9959		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise66:Station607:EventSecchi disc_9961		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise66:Station608:EventSea-Bird SBE21_9971		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise66:Station608:EventSecchi disc_9989		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise66:Station621:EventSea-Bird SBE21_10015		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise66:Station621:EventSecchi disc_10017		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise68:Station565:EventSea-Bird SBE21_9785		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise68:Station565:EventSecchi disc_9793		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise68:Station566:EventSea-Bird SBE21_9797		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise68:Station566:EventSecchi disc_9795		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise68:Station567:EventSea-Bird SBE21_9811		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise68:Station567:EventSecchi disc_9837		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise68:Station568:EventSea-Bird SBE21_9812		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise68:Station568:EventSecchi disc_9838		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise68:Station569:EventSea-Bird SBE21_9813		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise68:Station569:EventSecchi disc_9839		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise68:Station578:EventSea-Bird SBE21_9822		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise68:Station578:EventSecchi disc_9848		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise68:Station579:EventSea-Bird SBE21_9823		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise68:Station579:EventSecchi disc_9849		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise68:Station582:EventSea-Bird SBE21_9861		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise68:Station582:EventSecchi disc_9873		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise68:Station592:EventSea-Bird SBE21_9893		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise68:Station592:EventSecchi disc_9907		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise68:Station593:EventSea-Bird SBE21_9894		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise68:Station593:EventSecchi disc_9908		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise68:Station594:EventSea-Bird SBE21_9895		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise68:Station594:EventSecchi disc_9909		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise68:Station595:EventSea-Bird SBE21_9911		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise68:Station595:EventSecchi disc_9913		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise68:Station596:EventSea-Bird SBE21_9925		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise68:Station596:EventSecchi disc_9947		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise68:Station597:EventSea-Bird SBE21_9926		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise68:Station597:EventSecchi disc_9948		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise68:Station598:EventSea-Bird SBE21_9927		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise68:Station598:EventSecchi disc_9949		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise68:Station599:EventSea-Bird SBE21_9928		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise68:Station599:EventSecchi disc_9950		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise68:Station600:EventSea-Bird SBE21_9929		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise68:Station600:EventSecchi disc_9951		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise68:Station601:EventSea-Bird SBE21_9930		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise68:Station601:EventSecchi disc_9952		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise68:Station602:EventSea-Bird SBE21_9931		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise68:Station602:EventSecchi disc_9953		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise68:Station603:EventSea-Bird SBE21_9932		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise68:Station603:EventSecchi disc_9954		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise68:Station604:EventSea-Bird SBE21_9933		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise68:Station604:EventSecchi disc_9955		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise68:Station605:EventSea-Bird SBE21_9934		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise68:Station605:EventSecchi disc_9956		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise68:Station606:EventSea-Bird SBE21_9935		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise68:Station606:EventSecchi disc_9957		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise68:Station609:EventSea-Bird SBE21_9972		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise68:Station609:EventSecchi disc_9990		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise68:Station610:EventSea-Bird SBE21_9973		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise68:Station610:EventSecchi disc_9991		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise68:Station611:EventSea-Bird SBE21_9974		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise68:Station611:EventSecchi disc_9992		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise68:Station612:EventSea-Bird SBE21_9975		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise68:Station612:EventSecchi disc_9993		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise68:Station613:EventSea-Bird SBE21_9976		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise68:Station613:EventSecchi disc_9994		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise68:Station614:EventSea-Bird SBE21_9977		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise68:Station614:EventSecchi disc_9995		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise68:Station615:EventSea-Bird SBE21_9978		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise68:Station615:EventSecchi disc_9996		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise68:Station616:EventSea-Bird SBE21_9979		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise68:Station616:EventSecchi disc_9997		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise68:Station617:EventSea-Bird SBE21_9999		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise68:Station617:EventSecchi disc_10001		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise68:Station618:EventSea-Bird SBE21_10005		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise68:Station618:EventSecchi disc_10011		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise68:Station619:EventSea-Bird SBE21_10006		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise68:Station619:EventSecchi disc_10012		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise68:Station620:EventSea-Bird SBE21_10007		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise68:Station620:EventSecchi disc_10013		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise68:Station622:EventSea-Bird SBE21_10019		Sampling device		Sea-Bird SBE21 thermosalinograaf	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0667/		
+Cruise68:Station622:EventSecchi disc_10021		Sampling device		Secchi disc	http://vocab.nerc.ac.uk/collection/L22/current/TOOL0430/		
+Cruise10:Station75:EventSorbeSledge966:Subsample300	Ugenthyperbenthos45979	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	1		ind.	
+Cruise12:Station103:EventSorbeSledge992:Subsample414	Ugenthyperbenthos94510	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	1		ind.	
+Cruise12:Station97:EventSorbeSledge986:Subsample390	Ugenthyperbenthos97525	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	1		ind.	
+Cruise12:Station97:EventSorbeSledge986:Subsample390	Ugenthyperbenthos97526	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	3		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17345	Ugenthyperbenthos95453	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	12		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17345	Ugenthyperbenthos95454	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	1		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17345	Ugenthyperbenthos95455	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	3		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17345	Ugenthyperbenthos95456	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	2		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17345	Ugenthyperbenthos95457	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	49		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17345	Ugenthyperbenthos95458	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	260		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17345	Ugenthyperbenthos95459	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	1		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17345	Ugenthyperbenthos95460	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	54		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17345	Ugenthyperbenthos95461	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	1		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17345	Ugenthyperbenthos95462	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	1		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17345	Ugenthyperbenthos95463	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	56		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17345	Ugenthyperbenthos95464	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	298		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17345	Ugenthyperbenthos95465	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	6		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17345	Ugenthyperbenthos95466	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	1		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17345	Ugenthyperbenthos95467	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	1		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17345	Ugenthyperbenthos95468	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	17		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17345	Ugenthyperbenthos95469	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	8		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17345	Ugenthyperbenthos95470	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	50		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17345	Ugenthyperbenthos95471	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	2		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17345	Ugenthyperbenthos95472	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	5		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17345	Ugenthyperbenthos95473	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	1		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17345	Ugenthyperbenthos95474	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	2		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17345	Ugenthyperbenthos95475	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	10		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17345	Ugenthyperbenthos95476	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	3		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17345	Ugenthyperbenthos95477	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	45		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17345	Ugenthyperbenthos95478	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	28		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17345	Ugenthyperbenthos95479	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	23		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17345	Ugenthyperbenthos95480	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	94		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17345	Ugenthyperbenthos95481	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	21		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17345	Ugenthyperbenthos95482	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	20		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17345	Ugenthyperbenthos95485	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	2		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17345	Ugenthyperbenthos95486	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	1		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17345	Ugenthyperbenthos95487	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	2		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17345	Ugenthyperbenthos95488	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	4		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17345	Ugenthyperbenthos95489	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	63		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17345	Ugenthyperbenthos95490	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	58		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17345	Ugenthyperbenthos95491	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	69		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17345	Ugenthyperbenthos95492	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	3		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17345	Ugenthyperbenthos95493	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	5		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17345	Ugenthyperbenthos95494	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	74		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17345	Ugenthyperbenthos95495	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	177		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17345	Ugenthyperbenthos95497	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	44		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17345	Ugenthyperbenthos95498	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	334		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17345	Ugenthyperbenthos95499	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	30		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17345	Ugenthyperbenthos95500	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	37		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17345	Ugenthyperbenthos95501	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	1		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17345	Ugenthyperbenthos95502	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	4		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17345	Ugenthyperbenthos95503	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	415		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17345	Ugenthyperbenthos95504	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	205		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17346	Ugenthyperbenthos95505	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	1		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17346	Ugenthyperbenthos95506	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	8		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17346	Ugenthyperbenthos95507	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	2		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17346	Ugenthyperbenthos95509	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	2		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17346	Ugenthyperbenthos95510	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	2		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17346	Ugenthyperbenthos95512	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	1		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17346	Ugenthyperbenthos95513	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	4		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17346	Ugenthyperbenthos95514	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	3		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17346	Ugenthyperbenthos95515	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	43		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17346	Ugenthyperbenthos95516	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	90		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17346	Ugenthyperbenthos95517	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	45		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17346	Ugenthyperbenthos95518	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	84		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17346	Ugenthyperbenthos95519	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	9		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17348	Ugenthyperbenthos96115	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	1		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17348	Ugenthyperbenthos96117	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	244		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17348	Ugenthyperbenthos96118	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	44		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17348	Ugenthyperbenthos96121	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	1		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17348	Ugenthyperbenthos96122	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	3		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17348	Ugenthyperbenthos96123	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	1		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17348	Ugenthyperbenthos96126	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	1		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17348	Ugenthyperbenthos96128	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	68		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17348	Ugenthyperbenthos96129	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	328		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17348	Ugenthyperbenthos96130	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	7		ind.	
+Cruise13:Station108:EventSorbeSledge997:Subsample17348	Ugenthyperbenthos96133	Count (per taxon) of hyperbenthos >1000um in the water column by identification by optical microscopy	http://vocab.nerc.ac.uk/collection/P01/current/OCOUNT01	19		ind.	

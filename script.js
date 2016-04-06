@@ -13,32 +13,64 @@ var parse = function(csv) {
 	return result;
 }
 
-var append = function(tree, node, occurrence) {
-	if (occurrence) {
+var append = function(tree, node, type) {
+	if (type == "occurrence") {
 		if (tree.id == node.id) {
 			if (!tree.nodes) {
 				tree.nodes = [];
 			}
-			tree.nodes.push(createnode(node, occurrence));
+			tree.nodes.push(createnode(node, type));
 			return true;
 		} else if (tree.nodes) {
 			for (n in tree.nodes) {
-				if (append(tree.nodes[n], node, occurrence)) {
+				if (append(tree.nodes[n], node, type)) {
 					return true;
 				}
 			}
 		}
 		return false;
-	} else {
+	} else if (type == "measurement") {
+		if (node.occurrenceID && node.occurrenceID != "") {
+			if (tree.id == node.occurrenceID) {
+				if (!tree.nodes) {
+					tree.nodes = [];
+				}
+				tree.nodes.push(createnode(node, type));
+				return true;
+			} else if (tree.nodes) {
+				for (n in tree.nodes) {
+					if (append(tree.nodes[n], node, type)) {
+						return true;
+					}
+				}
+			}
+			return false;
+		} else {
+			if (tree.id == node.id) {
+				if (!tree.nodes) {
+					tree.nodes = [];
+				}
+				tree.nodes.push(createnode(node, type));
+				return true;
+			} else if (tree.nodes) {
+				for (n in tree.nodes) {
+					if (append(tree.nodes[n], node, type)) {
+						return true;
+					}
+				}
+			}
+			return false;
+		}
+	} else if (type == "event") {
 		if (tree.id == node.parentEventID) {
 			if (!tree.nodes) {
 				tree.nodes = [];
 			}
-			tree.nodes.push(createnode(node, occurrence));
+			tree.nodes.push(createnode(node, type));
 			return true;
 		} else if (tree.nodes) {
 			for (n in tree.nodes) {
-				if (append(tree.nodes[n], node, occurrence)) {
+				if (append(tree.nodes[n], node, type)) {
 					return true;
 				}
 			}
@@ -47,8 +79,8 @@ var append = function(tree, node, occurrence) {
 	}
 };
 
-var createnode = function(data, occurrence) {
-	if (occurrence) {
+var createnode = function(data, type) {
+	if (type == "occurrence") {
 		var text = data.occurrenceID;
 		if (data.scientificName && data.scientificName != "") {
 			text = text + " <span class=\"label label-warning\">" + data.scientificName + "</span>";
@@ -73,7 +105,22 @@ var createnode = function(data, occurrence) {
 			id: data.occurrenceID
 		};
 		return node;
-	} else {
+	} else if (type == "measurement") {
+		var text = "";
+		if (data.measurementID) {
+			text = data.measurementID + " ";
+		}
+		if (data.measurementType && data.measurementType != "") {
+			text = text + "<span class=\"label label-info\">" + data.measurementType + "</span>";
+		}
+		if (data.measurementValue && data.measurementValue != "") {
+			text = text + " <span class=\"label label-field\">measurementValue: " + data.measurementValue + "</span>";
+		}
+		var node = {
+			text: text
+		};
+		return node;
+	} else if (type == "event") {
 		var text = data.eventID;
 		if (data.generated) {
 			text = text + " <span class=\"label label-danger\">Generated</span>";
@@ -114,6 +161,7 @@ var process = function() {
 		errors = [];
 		process_event();
 		process_occurrence();
+		process_measurement();
 		draw();
 	});
 };
@@ -171,7 +219,7 @@ var process_event = function() {
 
 				// no parentEventID present
 
-				tree.push(createnode(data[i]));
+				tree.push(createnode(data[i], "event"));
 				data.splice(i, 1);
 
 			} else {
@@ -179,7 +227,7 @@ var process_event = function() {
 				// parentEventID present
 
 				for (t in tree) {
-					if (append(tree[t], data[i])) {
+					if (append(tree[t], data[i], "event")) {
 
 						// parent found
 
@@ -208,13 +256,37 @@ var process_occurrence = function() {
 	for (var i = 0; i < data.length; i++) {
 		var found = false;
 		for (t in tree) {
-			if (append(tree[t], data[i], true)) {
+			if (append(tree[t], data[i], "occurrence")) {
 				found = true;
 				break;
 			}
 		}
 		if (!found) {
 			errors.push("No event " + data[i].id + " found for occurrence " + data[i].occurrenceID);
+		}
+	}
+
+};
+
+var process_measurement = function() {
+
+	// parse input
+
+	var input = $("#measurement").val();
+	var data = parse(input);
+
+	// process lines
+
+	for (var i = 0; i < data.length; i++) {
+		var found = false;
+		for (t in tree) {
+			if (append(tree[t], data[i], "measurement")) {
+				found = true;
+				break;
+			}
+		}
+		if (!found) {
+			errors.push("No event " + data[i].id + " found for measurement " + data[i].measurementID);
 		}
 	}
 
@@ -258,4 +330,17 @@ $(document).ready(function() {
 			$("#occurrence").text(data);
 		}
 	});
+	$.ajax({
+		url: "measurementorfact.txt",
+		dataType: "text",
+		success: function(data) {
+			$("#measurement").text(data);
+		}
+	});
 }); 
+
+var empty = function() {
+	$("#event").val("");
+	$("#occurrence").val("");
+	$("#measurement").val("");
+};
