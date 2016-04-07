@@ -103,6 +103,12 @@ var createnode = function(data, type) {
 		if (data.maximumDepthInMeters && data.maximumDepthInMeters != "") {
 			text = text + " <span class=\"label label-field\">maximumDepthInMeters: " + data.maximumDepthInMeters + "</span>";
 		}
+		if (data.sex && data.sex != "") {
+			text = text + " <span class=\"label label-field\">sex: " + data.sex + "</span>";
+		}
+		if (data.lifeStage && data.lifeStage != "") {
+			text = text + " <span class=\"label label-field\">lifeStage: " + data.lifeStage + "</span>";
+		}
 		node.text = text;
 		node.id = data.occurrenceID;
 	} else if (type == "measurement") {
